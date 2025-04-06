@@ -5,7 +5,6 @@
 
 <img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal8gupta&label=Profile%20views&color=0e75b6&style=flat" alt="nihal8gupta" /> </p>
 
 - 💬 Ask me about **Python, SQL, Django**
 - 📫 How to reach me: **[aniketxsharmax@gmail.com](mailto:aniketxsharmax@gmail.com)**
